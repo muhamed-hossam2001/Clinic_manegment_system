@@ -1,0 +1,3 @@
+D:/cources/FinalCProject/cmake-build-debug/CMakeFiles/FinalCProject.dir
+D:/cources/FinalCProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cources/FinalCProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

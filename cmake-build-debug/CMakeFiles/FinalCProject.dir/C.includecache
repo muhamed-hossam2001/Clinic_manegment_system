@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/cources/FinalCProject/Config.h
+
+D:/cources/FinalCProject/STDTYPES.h
+
+D:/cources/FinalCProject/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+STDTYPES.h
+D:/cources/FinalCProject/STDTYPES.h
+Config.h
+D:/cources/FinalCProject/Config.h
+
